@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/primary_material_dark</color>
+    <color name="colorSecondary">@color/primary_dark_material_dark</color>
+    <color name="colorAccent">@color/accent_material_dark</color>
+    <color name="colorForeground">@android:color/white</color>
+    <color name="colorActive">@color/colorForeground</color>
+    <color name="colorMuted">#5a595b</color>
+</resources>

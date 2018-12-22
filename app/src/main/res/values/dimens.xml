@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="list_cover_width">72dp</dimen>
+    <dimen name="list_cover_height">72dp</dimen>
+    <dimen name="detail_cover_height">144</dimen>
+    <dimen name="detail_cover_width">144</dimen>
+</resources>
